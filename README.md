@@ -11,11 +11,17 @@
 # Chức năng:
 * Winform
    * Quản lý bán hàng
+   * Quản lý nhà cung cấp
    * Quản lý nhân viên
    * Quản lý kho hàng
    * Quản lý hàng hóa
 * Web
    * Đặt hàng online
+   * Quản lý giỏ hàng
+   * Thanh toán online
+   * Quản lý đơn hàng
+   * Đăng ký tài khoản
+   * Thống kê doanh thu
 * AI
   * Chatbot AI (Tư vấn bán hàng)
 
