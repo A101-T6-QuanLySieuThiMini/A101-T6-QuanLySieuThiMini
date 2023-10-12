@@ -1,10 +1,8 @@
-﻿@model IEnumerable<WebsiteBanHang.Models.EF.Category>
+﻿@model IEnumerable<WebsiteBanHang.Models.EF.News>
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Tin tucws";
     Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
 }
-
-
 
 @section naviheader{
     <!-- Left navbar links -->
@@ -16,7 +14,7 @@
             <a href="/admin" class="nav-link">Trang chủ</a>
         </li>
         <li class="nav-item d-none d-sm-inline-block">
-            <a href="/admin/new" class="nav-link">tin</a>
+            <a href="/admin/new/add" class="nav-link">Thêm mới</a>
         </li>
     </ul>
 }
@@ -25,12 +23,12 @@
     <div class="container-fluid">
         <div class="row mb-2">
             <div class="col-sm-6">
-                <h1>Quản lý danh mục</h1>
+                <h1>Quản lý tin tức</h1>
             </div>
             <div class="col-sm-6">
                 <ol class="breadcrumb float-sm-right">
                     <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item active">Danh mục</li>
+                    <li class="breadcrumb-item active">Tin tức</li>
                 </ol>
             </div>
         </div>
@@ -39,12 +37,10 @@
 
 <!-- Main content -->
 <section class="content">
-
     <!-- Default box -->
     <div class="card">
         <div class="card-header">
             <h3 class="card-title">Danh sách danh mục</h3>
-
             <div class="card-tools">
                 <a href="/admin/new/add" class="btn btn-primary">Thêm mới</a>
             </div>
@@ -54,7 +50,10 @@
                 <thead>
                     <tr>
                         <th>STT</th>
-                        <th>Tên danh mục</th>
+                        <th>Hinh anh</th>
+
+                        <th>tieu de tin</th>
+                        <th>ngay tao</th>
                         <th>Thứ tự</th>
                         <th></th>
                     </tr>
@@ -68,10 +67,11 @@
 
                             <tr id="trow_@item.Id">
                                 <td>@i</td>
+                                <td>@item.Image</td>
                                 <td>@item.Title</td>
-                                <td>@item.Position</td>
+                                <td>@item.CreatedDate.ToString("ddd/MM/yyyy")</td>
                                 <td>
-                                    <a href="/admin/category/edit/@item.Id" class="btn btn-sm btn-primary">Sửa</a>
+                                    <a href="/admin/new/edit/@item.Id" class="btn btn-sm btn-primary">Sửa</a>
                                     <a href="#" data-id="@item.Id" class="btn btn-sm btn-danger btnDelete">Xóa</a>
                                 </td>
                             </tr>
@@ -108,7 +108,7 @@
                 var conf = confirm('Bạn có muốn xóa bản ghi này không?');
                 if (conf === true) {
                     $.ajax({
-                        url: '/admin/category/delete',
+                        url: '/admin/new/delete',
                         type: 'POST',
                         data: { id: id },
                         success: function (rs) {
@@ -122,4 +122,3 @@
         });
     </script>
 }
-
