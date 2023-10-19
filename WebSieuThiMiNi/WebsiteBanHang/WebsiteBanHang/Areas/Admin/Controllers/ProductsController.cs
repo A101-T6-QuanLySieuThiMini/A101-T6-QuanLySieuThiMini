@@ -80,6 +80,92 @@ namespace WebsiteBanHang.Areas.Admin.Controllers
             ViewBag.ProductCategory = new SelectList(db.ProductCategories.ToList(), "Id", "Title");
             return View(model);
         }
+        public ActionResult Edit(int id)
+        {
+            ViewBag.ProductCategory = new SelectList(db.ProductCategories.ToList(), "Id", "Title");
+            var item = db.Products.Find(id);
+            return View(item);
+        }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit(Product model)
+        {
+            if (ModelState.IsValid)
+            {
+                model.ModifiedDate = DateTime.Now;
+                model.Alias = WebsiteBanHang.Models.Common.Filter.FilterChar(model.Title);
+                db.Products.Attach(model);
+                db.Entry(model).State = System.Data.Entity.EntityState.Modified;
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(model);
+        }
+        [HttpPost]
+        public ActionResult Delete(int id)
+        {
+            var item = db.Products.Find(id);
+            if (item != null)
+            {
+                var checkImg = item.ProductImage.Where(x => x.ProductId == item.Id);
+                if (checkImg != null)
+                {
+                    foreach (var img in checkImg)
+                    {
+                        db.ProductImages.Remove(img);
+                        db.SaveChanges();
+                    }
+                }
+                db.Products.Remove(item);
+                db.SaveChanges();
+                return Json(new { success = true });
+            }
+
+            return Json(new { success = false });
+        }
+        [HttpPost]
+        public ActionResult IsActive(int id)
+        {
+            var item = db.Products.Find(id);
+            if (item != null)
+            {
+                item.IsActive = !item.IsActive;
+                db.Entry(item).State = System.Data.Entity.EntityState.Modified;
+                db.SaveChanges();
+                return Json(new { success = true, isAcive = item.IsActive });
+            }
+
+            return Json(new { success = false });
+        }
+        [HttpPost]
+        public ActionResult IsHome(int id)
+        {
+            var item = db.Products.Find(id);
+            if (item != null)
+            {
+                item.IsHome = !item.IsHome;
+                db.Entry(item).State = System.Data.Entity.EntityState.Modified;
+                db.SaveChanges();
+                return Json(new { success = true, IsHome = item.IsHome });
+            }
+
+            return Json(new { success = false });
+        }
+
+        [HttpPost]
+        public ActionResult IsSale(int id)
+        {
+            var item = db.Products.Find(id);
+            if (item != null)
+            {
+                item.IsSale = !item.IsSale;
+                db.Entry(item).State = System.Data.Entity.EntityState.Modified;
+                db.SaveChanges();
+                return Json(new { success = true, IsSale = item.IsSale });
+            }
+
+            return Json(new { success = false });
+        }
     }
 }
