@@ -6,7 +6,7 @@ using System.Net;
 using System.Net.Mail;
 using System.Web;
 
-namespace WebBanHangOnline.Common
+namespace WebsiteBanHang.Common
 {
     public class Common
     {
