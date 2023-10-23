@@ -11,12 +11,26 @@ namespace WebsiteBanHang.Controllers
     {
         private ApplicationDbContext db = new ApplicationDbContext();
         // GET: Products
-        public ActionResult Index()
+        public ActionResult Index(int? id)
         {
             var items = db.Products.ToList();
+            if (id!=null)
+            {
+                items = items.Where(x => x.ProductCategoryId == id).ToList();
+            }    
             return View(items);
         }
-        public ActionResult Partial_ItemByCateId()
+        public ActionResult ProductCategory(string alias,int id)
+        {
+            var items = db.Products.ToList();
+            if (id >0)
+            {
+                items = items.Where(x => x.ProductCategoryId == id).ToList();
+            }
+            ViewBag.CateId = id;
+            return View(items);
+        }
+        public ActionResult Partial_ItemByCateId(string alias )
         {
             var items = db.Products.Where(x => x.IsHome).ToList();
             return PartialView();
