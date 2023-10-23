@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A101-T6-QuanLySieuThiMini
 
 # Đồ án: QUẢN LÝ SIÊU THỊ MINI
@@ -25,3 +26,6 @@
 * AI
   * Chatbot AI (Tư vấn bán hàng)
 
+=======
+# A101-T6-QuanLySieuThiMini
+>>>>>>> parent of b058bb6 (Update README.md)
