@@ -113,7 +113,6 @@ C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\obj\Debu
 C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
 C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
 C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
-C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.dll
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\WebsiteBanHang.dll.config
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\WebsiteBanHang.dll
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\WebsiteBanHang.pdb
@@ -168,6 +167,7 @@ C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThi
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Antlr3.Runtime.dll
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\CKFinder.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.dll
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
@@ -226,4 +226,3 @@ C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThi
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
-C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache

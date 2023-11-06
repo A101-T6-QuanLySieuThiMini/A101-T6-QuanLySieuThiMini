@@ -1,0 +1,6 @@
+C:\Users\xuantuan\OneDrive\Máy tính\DoAnPTUDTM\DoAn\DAL\bin\Debug\DAL.dll.config
+C:\Users\xuantuan\OneDrive\Máy tính\DoAnPTUDTM\DoAn\DAL\bin\Debug\DAL.dll
+C:\Users\xuantuan\OneDrive\Máy tính\DoAnPTUDTM\DoAn\DAL\bin\Debug\DAL.pdb
+C:\Users\xuantuan\OneDrive\Máy tính\DoAnPTUDTM\DoAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\xuantuan\OneDrive\Máy tính\DoAnPTUDTM\DoAn\DAL\obj\Debug\DAL.dll
+C:\Users\xuantuan\OneDrive\Máy tính\DoAnPTUDTM\DoAn\DAL\obj\Debug\DAL.pdb

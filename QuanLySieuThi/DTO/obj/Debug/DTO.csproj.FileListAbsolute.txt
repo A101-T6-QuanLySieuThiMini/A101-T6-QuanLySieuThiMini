@@ -1,0 +1,5 @@
+C:\Users\xuantuan\OneDrive\Máy tính\DoAnPTUDTM\DoAn\DTO\bin\Debug\DTO.dll
+C:\Users\xuantuan\OneDrive\Máy tính\DoAnPTUDTM\DoAn\DTO\bin\Debug\DTO.pdb
+C:\Users\xuantuan\OneDrive\Máy tính\DoAnPTUDTM\DoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\xuantuan\OneDrive\Máy tính\DoAnPTUDTM\DoAn\DTO\obj\Debug\DTO.dll
+C:\Users\xuantuan\OneDrive\Máy tính\DoAnPTUDTM\DoAn\DTO\obj\Debug\DTO.pdb
