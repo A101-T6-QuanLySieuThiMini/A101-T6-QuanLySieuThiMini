@@ -12,10 +12,9 @@ namespace WebsiteBanHang.Common
     {
 
 
-        private static string password = ConfigurationManager.AppSettings["PasswordEmail"];
+        private static string password = ConfigurationManager.AppSettings["Password"];
         private static string Email = ConfigurationManager.AppSettings["Email"];
-        public static bool SendMail(string name, string subject, string content,
-            string toMail)
+        public static bool SendMail(string name, string subject, string content, string toMail)
         {
         bool rs = false;
             try

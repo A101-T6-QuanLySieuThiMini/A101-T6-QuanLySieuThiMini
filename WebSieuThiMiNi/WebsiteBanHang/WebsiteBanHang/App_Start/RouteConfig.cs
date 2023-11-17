@@ -18,7 +18,20 @@ namespace WebsiteBanHang
              defaults: new { controller = "Contact", action = "Index", alias = UrlParameter.Optional },
              namespaces: new[] { "WebsiteBanHang.Controllers" }
          );
-
+            routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
+            routes.MapRoute(
+             name: "ShoppingCart",
+             url: "gio-hang",
+             defaults: new { controller = "ShoppingCart", action = "Index", alias = UrlParameter.Optional },
+             namespaces: new[] { "WebsiteBanHang.Controllers" }
+         );
+            routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
+            routes.MapRoute(
+             name: "CheckOut",
+             url: "thanh-toan",
+             defaults: new { controller = "ShoppingCart", action = "CheckOut", alias = UrlParameter.Optional },
+             namespaces: new[] { "WebsiteBanHang.Controllers" }
+         );
             routes.MapRoute(
              name: "CategoryProduct",
              url: "danh-muc-san-pham/{alias}-{id}",
