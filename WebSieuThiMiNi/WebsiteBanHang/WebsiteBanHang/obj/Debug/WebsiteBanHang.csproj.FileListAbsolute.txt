@@ -222,8 +222,8 @@ C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThi
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
 C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
-C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache
