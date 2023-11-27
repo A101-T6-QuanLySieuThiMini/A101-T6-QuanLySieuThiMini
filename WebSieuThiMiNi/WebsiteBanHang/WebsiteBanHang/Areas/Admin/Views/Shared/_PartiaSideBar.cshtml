@@ -157,10 +157,10 @@
 </div>
 <!-- /.sidebar -->
 
-@*@if (Request.IsAuthenticated)
+@if (Request.IsAuthenticated)
 {
 <div style="display:none">
     @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { @id = "logOffForm" }))
     {
-@Html.AntiForgeryToken()}*@
-@*</div>}*@
+@Html.AntiForgeryToken()}
+</div>}

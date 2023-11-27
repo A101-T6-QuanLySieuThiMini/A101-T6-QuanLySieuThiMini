@@ -9,6 +9,7 @@ using PagedList;
 
 namespace WebsiteBanHang.Areas.Admin.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class ProductsController : Controller
     {
         // GET: Admin/Product

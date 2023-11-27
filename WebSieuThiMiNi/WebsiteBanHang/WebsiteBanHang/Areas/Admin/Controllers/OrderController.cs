@@ -11,6 +11,8 @@ using System.Data.Entity;
 
 namespace WebsiteBanHang.Areas.Admin.Controllers
 {
+    [Authorize(Roles = "Admin")]
+
     public class OrderController : Controller
     {
         // GET: Admin/Order

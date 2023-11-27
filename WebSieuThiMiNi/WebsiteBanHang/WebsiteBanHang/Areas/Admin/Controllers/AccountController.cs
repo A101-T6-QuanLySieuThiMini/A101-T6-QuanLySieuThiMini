@@ -11,6 +11,7 @@ using WebsiteBanHang.Models;
 
 namespace WebsiteBanHang.Areas.Admin.Controllers
 {
+    [Authorize(Roles = "Admin,Employee")]
     public class AccountController : Controller
     {
         private ApplicationSignInManager _signInManager;
@@ -48,6 +49,13 @@ namespace WebsiteBanHang.Areas.Admin.Controllers
             {
                 _userManager = value;
             }
+        }
+
+        // GET: Admin/Account
+        public ActionResult Index()
+        {
+            var ítems = db.Users.ToList();
+            return View(ítems);
         }
         //
         // GET: /Account/Login
@@ -88,18 +96,26 @@ namespace WebsiteBanHang.Areas.Admin.Controllers
             }
         }
 
-        // GET: Admin/Account
-        public ActionResult Index()
+        //
+        // POST: /Account/LogOff
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult LogOff()
         {
-            var items = db.Users.ToList(); ;
-            return View(items);
+            AuthenticationManager.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
+            return RedirectToAction("Index", "Home");
         }
+        //
+        // GET: /Account/Register
         [AllowAnonymous]
         public ActionResult Create()
         {
-            ViewBag.Role = new SelectList(db.Roles.ToList(), "Id", "Name");
-            return View();    
+            ViewBag.Role = new SelectList(db.Roles.ToList(), "Name", "Name");
+            return View();
         }
+
+        //
+        // POST: /Account/Register
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
@@ -117,7 +133,7 @@ namespace WebsiteBanHang.Areas.Admin.Controllers
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
-                    //erManager.AddToRole(user.Id, model.Role);
+                    UserManager.AddToRole(user.Id, model.Role);
                     //await SignInManager.SignInAsync(user, isPersistent: false, rememberBrowser: false);
 
                     // For more information on how to enable account confirmation and password reset please visit https://go.microsoft.com/fwlink/?LinkID=320771

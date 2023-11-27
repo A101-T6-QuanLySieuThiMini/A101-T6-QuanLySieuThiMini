@@ -8,6 +8,8 @@ using WebsiteBanHang.Models.EF;
 
 namespace WebsiteBanHang.Areas.Admin.Controllers
 {
+    [Authorize(Roles = "Admin")]
+
     public class ProductImageController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();

@@ -8,6 +8,7 @@ using WebsiteBanHang.Models.EF;
 
 namespace WebsiteBanHang.Controllers
 {
+    //[Authorize]
     public class HomeController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
