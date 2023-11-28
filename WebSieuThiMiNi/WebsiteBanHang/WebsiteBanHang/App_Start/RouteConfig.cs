@@ -33,6 +33,12 @@ namespace WebsiteBanHang
              namespaces: new[] { "WebsiteBanHang.Controllers" }
          );
             routes.MapRoute(
+           name: "BaiViet",
+           url: "post/{alias}",
+           defaults: new { controller = "Article", action = "Index", alias = UrlParameter.Optional },
+           namespaces: new[] { "WebsiteBanHang.Controllers" }
+         );
+            routes.MapRoute(
              name: "CategoryProduct",
              url: "danh-muc-san-pham/{alias}-{id}",
              defaults: new { controller = "Products", action = "ProductCategory", alias = UrlParameter.Optional },
