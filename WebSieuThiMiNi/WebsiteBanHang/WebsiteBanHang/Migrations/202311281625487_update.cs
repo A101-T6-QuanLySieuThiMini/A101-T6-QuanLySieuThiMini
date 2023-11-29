@@ -3,7 +3,7 @@ namespace WebsiteBanHang.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class delete : DbMigration
+    public partial class update : DbMigration
     {
         public override void Up()
         {
@@ -57,11 +57,6 @@ namespace WebsiteBanHang.Migrations
                 c => new
                     {
                         Id = c.Int(nullable: false, identity: true),
-                        Name = c.String(nullable: false, maxLength: 150),
-                        Email = c.String(maxLength: 150),
-                        Website = c.String(),
-                        Message = c.String(maxLength: 4000),
-                        IsRead = c.Boolean(nullable: false),
                         CreatedBy = c.String(),
                         CreatedDate = c.DateTime(nullable: false),
                         ModifiedDate = c.DateTime(nullable: false),
