@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DAL;
+using DTO;
 namespace BLL
 {
     public class ProductBLL
@@ -11,20 +12,47 @@ namespace BLL
         WebBanHangOnlineDataContext db = new WebBanHangOnlineDataContext();
         public List<product> loadProduct()
         {
-            var lstProduct = from product in db.products select product;
-
+            var lstProduct = from p in db.products select p;
             return lstProduct.ToList();
         }
         public List<int> loadcbbLSP()
         {
-            List<int> productCodes = db.tb_Products.Select(p => p.ProductCategoryId).ToList(); // Lấy danh sách mã sản phẩm từ bảng Products
+            List<int> productCodes = db.tb_ProductCategories.Select(p => p.Id).ToList(); // Lấy danh sách mã sản phẩm từ bảng Products
 
             return productCodes;
         }
-        public void addProduct(tb_Product product)
+        private ProductDAL productDAL = new ProductDAL();
+        public bool addProduct(ProductDTO product)
         {
-            db.tb_Products.InsertOnSubmit(product);
-            db.SubmitChanges();
+           return productDAL.addProduct(product);
+        }
+        public int getID()
+        {
+            var maxID = db.tb_Products.Max(p => (int?)p.Id) ?? 0;
+            return maxID+1;
+        }
+        public bool deleteProduct(int id)
+        {
+            var idDelete = db.tb_Products.SingleOrDefault(x => x.Id == id);
+            if(idDelete!=null)
+            {
+                db.tb_Products.DeleteOnSubmit(idDelete);
+                db.SubmitChanges();
+            }    
+            return true;
+        }
+        public List<tb_Product> getProductsByPrice(bool ascendingOrder)
+        {
+            var query = db.tb_Products.AsQueryable();
+            if(ascendingOrder)
+            {
+                query = query.OrderBy(p => p.Price);
+            }
+            else
+            {
+                query = query.OrderByDescending(p => p.Price);
+            }
+            return query.ToList();
         }
     }
 }

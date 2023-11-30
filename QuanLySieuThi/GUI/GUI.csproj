@@ -52,23 +52,23 @@
     <Compile Include="ChangePW.Designer.cs">
       <DependentUpon>ChangePW.cs</DependentUpon>
     </Compile>
-    <Compile Include="frm_banhang.cs">
+    <Compile Include="frm_admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frm_banhang.Designer.cs">
-      <DependentUpon>frm_banhang.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frm_dangky.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_dangky.Designer.cs">
-      <DependentUpon>frm_dangky.cs</DependentUpon>
+    <Compile Include="frm_admin.Designer.cs">
+      <DependentUpon>frm_admin.cs</DependentUpon>
     </Compile>
     <Compile Include="frm_dangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frm_dangNhap.Designer.cs">
       <DependentUpon>frm_dangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_NhanVien.Designer.cs">
+      <DependentUpon>frm_NhanVien.cs</DependentUpon>
     </Compile>
     <Compile Include="frm_sanpham.cs">
       <SubType>Form</SubType>
@@ -90,14 +90,17 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="ChangePW.resx">
       <DependentUpon>ChangePW.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frm_banhang.resx">
-      <DependentUpon>frm_banhang.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frm_dangky.resx">
-      <DependentUpon>frm_dangky.cs</DependentUpon>
+    <EmbeddedResource Include="frm_admin.resx">
+      <DependentUpon>frm_admin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_dangNhap.resx">
       <DependentUpon>frm_dangNhap.cs</DependentUpon>
@@ -120,6 +123,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -11,33 +11,39 @@ namespace BLL
         public WebBanHangOnlineDataContext db = new WebBanHangOnlineDataContext();
         public bool Login(string username, string password)
         {
-            var user = db.accounts.FirstOrDefault(u => u.username == username && u.password == password);
+            var user = db.AspNetUsers.FirstOrDefault(u => u.UserName == username && u.PasswordHash == password);
 
             return user != null;
         }
-
-        public bool Register(string username, string password,string fullname,int isAdmin)
+        public string getName(string id)
         {
-            var existingUser = db.accounts.FirstOrDefault(u => u.username == username);
+                var userName = (from a in db.AspNetUsers
+                                where a.Id == id
+                                select a.UserName).FirstOrDefault();
+                return userName;
+        }
+        public bool Register(string id,string username, string password,string phone)
+        {
+            var existingUser = db.AspNetUsers.FirstOrDefault(u => u.UserName == username);
 
             if (existingUser != null)
             {
-                return false; // Tài khoản đã tồn tại
+                return false;        
             }
-            var newUser = new account
+            var newUser = new AspNetUser
             {             
-                username = username,
-                password = password,
-                fullname=fullname,
-                isAdmin=isAdmin
+                Id = id,
+                UserName = username,
+                PasswordHash = password,
+                Phone = phone
             };
-            db.accounts.InsertOnSubmit(newUser);
+            db.AspNetUsers.InsertOnSubmit(newUser);
             db.SubmitChanges();
             return true;
         }
         public bool checkAdmin(string username,string password)
         {
-            var user = db.accounts.FirstOrDefault(u => u.username == username && u.password == password);
+            var user = db.AspNetUsers.FirstOrDefault(u => u.UserName == username && u.PasswordHash == password);
             if (user != null)
             {
                 if (user.isAdmin == 1)
@@ -53,10 +59,10 @@ namespace BLL
         }
         public bool changePW(string username,string oldpassword,string newpassword)
         {
-            var user = db.accounts.FirstOrDefault(u => u.username == username && u.password == oldpassword);
+            var user = db.AspNetUsers.FirstOrDefault(u => u.UserName == username && u.PasswordHash == oldpassword);
             if(user!=null)
             {
-                user.password = newpassword;
+                user.PasswordHash = newpassword;
                 db.SubmitChanges();
                 return true;
             }

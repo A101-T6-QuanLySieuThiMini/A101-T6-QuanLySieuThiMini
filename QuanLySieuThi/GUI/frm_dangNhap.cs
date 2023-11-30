@@ -22,22 +22,23 @@ namespace GUI
         {
             string username = txt_tk.Text;
             string password = txt_mk.Text;
-
             bool loginResult = UserBLL.Login(username, password);
             bool admin = UserBLL.checkAdmin(txt_tk.Text,txt_mk.Text);
             if (loginResult)
             {
+                string userName = UserBLL.getName(username);
+
                 if (admin)
                 {
-                    MessageBox.Show("Đăng nhập thành công admin!");
-                    frm_sanpham f = new frm_sanpham();
+                    MessageBox.Show("Admin đăng nhập thành công! Chào mừng " + userName + " đến với hệ thống.");
+                    frm_admin f = new frm_admin();
                     f.Show();
                     this.Hide(); 
                 }
                 else
                 {
-                    MessageBox.Show("Đăng nhập thành công nhan vien!");
-                    frm_sanpham f = new frm_sanpham();
+                    MessageBox.Show("Nhân viên đăng nhập thành công! Chào mừng " + userName + " đến với hệ thống.");
+                    frm_NhanVien f = new frm_NhanVien();
                     f.Show();
                     this.Hide();
                 }
@@ -53,7 +54,7 @@ namespace GUI
         private void button3_Click(object sender, EventArgs e)
         {
             this.Hide();
-            frm_dangky f = new frm_dangky();
+            Register f = new Register();
             f.Show();
         }
 
@@ -66,6 +67,13 @@ namespace GUI
             }
             else
                 txt_mk.UseSystemPasswordChar = false;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close(); ;
+            ChangePW pw = new ChangePW();
+            pw.Show();
         }
     }
 }

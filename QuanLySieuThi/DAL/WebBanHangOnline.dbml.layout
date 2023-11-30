@@ -1,30 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 10.75" name="WebBanHangOnline">
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.125" name="WebBanHangOnline">
   <DataContextMoniker Name="/WebBanHangOnlineDataContext" />
   <nestedChildShapes>
-    <classShape Id="9a44a6ce-31e5-46df-97a2-26e84886c7f5" absoluteBounds="1.875, 0.75, 2, 3.6939111328124996">
-      <DataClassMoniker Name="/WebBanHangOnlineDataContext/AspNetUser" />
-      <nestedChildShapes>
-        <elementListCompartment Id="a0d26e61-9637-4cbe-936a-44a401c5e82b" absoluteBounds="1.8900000000000001, 1.21, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <classShape Id="ffa5e6cd-58d1-4529-aa8f-4b4209287fa7" absoluteBounds="5.375, 1.875, 2, 1.7708968098958331">
-      <DataClassMoniker Name="/WebBanHangOnlineDataContext/account" />
-      <nestedChildShapes>
-        <elementListCompartment Id="e322940a-ed37-46da-b794-2eb2fac95e36" absoluteBounds="5.39, 2.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <classShape Id="aa10a2f1-2605-41b9-b2f3-aef16d06ff07" absoluteBounds="4.625, 4.875, 2, 5.6169254557291657">
-      <DataClassMoniker Name="/WebBanHangOnlineDataContext/tb_Product" />
-      <nestedChildShapes>
-        <elementListCompartment Id="ece875ef-fc32-4745-afc4-7f61ac7d9981" absoluteBounds="4.64, 5.335, 1.9700000000000002, 5.0569254557291661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <classShape Id="b273e07f-24c8-4f30-91f1-7b4e3cddb263" absoluteBounds="1.75, 6.5, 2, 1.9631982421875">
+    <classShape Id="89d1b1de-bbb2-4e8f-ba80-0739f0baf3f1" absoluteBounds="1.5, 3.125, 2, 2.1554996744791666">
       <DataClassMoniker Name="/WebBanHangOnlineDataContext/product" />
       <nestedChildShapes>
-        <elementListCompartment Id="4cdfb5c1-2bb0-421f-a39c-5bfc968d401d" absoluteBounds="1.7650000000000001, 6.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="c33ace51-1b2f-47cf-95b7-e90ba38e3d78" absoluteBounds="1.5150000000000001, 3.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
+    <classShape Id="dd108234-5d39-4704-ad34-b187d7ec8829" absoluteBounds="4.25, 1.875, 2, 5.6169254557291657">
+      <DataClassMoniker Name="/WebBanHangOnlineDataContext/tb_Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="779d7329-a4a2-41d1-95ba-12584e0af5e2" absoluteBounds="4.265, 2.335, 1.9700000000000002, 5.0569254557291661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b7589216-17c9-4a39-94b1-3d6e59080e04" absoluteBounds="6.75, 1.625, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/WebBanHangOnlineDataContext/AspNetUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="774ffc58-bc29-45e7-91c9-e49921b9f60b" absoluteBounds="6.765, 2.085, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="40c70e29-3189-4dc6-8259-418bdef8ae30" absoluteBounds="1.25, 5.75, 2, 3.1170068359375">
+      <DataClassMoniker Name="/WebBanHangOnlineDataContext/tb_ProductCategory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7a0ef3d8-dc24-4e0a-8f09-b4e9790c646a" absoluteBounds="1.2650000000000001, 6.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.25 : 6.62096272786458); (4.25 : 6.62096272786458)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/WebBanHangOnlineDataContext/tb_ProductCategory/tb_ProductCategory_tb_Product" />
+      <nodes>
+        <classShapeMoniker Id="40c70e29-3189-4dc6-8259-418bdef8ae30" />
+        <classShapeMoniker Id="dd108234-5d39-4704-ad34-b187d7ec8829" />
+      </nodes>
+    </associationConnector>
   </nestedChildShapes>
 </ordesignerObjectsDiagram>

@@ -81,6 +81,7 @@ namespace GUI
             this.btn_thoat.TabIndex = 48;
             this.btn_thoat.Text = "Thoát";
             this.btn_thoat.UseVisualStyleBackColor = false;
+            this.btn_thoat.Click += new System.EventHandler(this.btn_thoat_Click);
             // 
             // btn_doiMatKhau
             // 
@@ -121,7 +122,7 @@ namespace GUI
             this.groupBox3.Size = new System.Drawing.Size(471, 91);
             this.groupBox3.TabIndex = 44;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Mật khẩu mới";
+            this.groupBox3.Text = "Mật khẩu cũ";
             // 
             // txt_newmk
             // 

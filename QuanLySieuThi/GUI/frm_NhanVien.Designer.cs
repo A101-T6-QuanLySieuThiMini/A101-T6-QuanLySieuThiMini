@@ -1,7 +1,7 @@
 ﻿
 namespace GUI
 {
-    partial class frm_banhang
+    partial class frm_NhanVien
     {
         /// <summary>
         /// Required designer variable.
@@ -29,17 +29,10 @@ namespace GUI
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // frm_banhang
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1047, 549);
-            this.Name = "frm_banhang";
-            this.Text = "frm_banhang";
-            this.ResumeLayout(false);
-
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "frm_NhanVien";
         }
 
         #endregion

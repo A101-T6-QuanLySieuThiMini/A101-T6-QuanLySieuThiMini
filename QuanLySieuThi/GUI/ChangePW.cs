@@ -28,11 +28,31 @@ namespace GUI
             if (changePasswordResult)
             {
                 MessageBox.Show("Đổi mật khẩu thành công!");
+                this.Close();
+                frm_dangNhap f = new frm_dangNhap();
+                f.Show();
             }
             else
             {
                 MessageBox.Show("Đổi mật khẩu thất bại!");
             }
+        }
+
+        private void btn_thoat_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Bạn có chắc chắn muốn thoát không?", "Xác nhận thoát", MessageBoxButtons.YesNo);
+
+            if (result == DialogResult.Yes)
+            {
+                frm_dangNhap f = new frm_dangNhap();
+                f.Show();
+                // Đóng WinForm
+                this.Close();
+            }
+            else
+            {
+                return;
+            }            
         }
     }
 }

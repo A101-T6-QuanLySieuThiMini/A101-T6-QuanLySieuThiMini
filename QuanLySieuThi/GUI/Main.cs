@@ -23,5 +23,16 @@ namespace GUI
             a.Show();
             this.Hide();
         }
+
+        private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Bạn có chắc chắn muốn thoát không?", "Xác nhận thoát", MessageBoxButtons.YesNo);
+
+            if (result == DialogResult.Yes)
+            {
+                // Đóng WinForm
+                this.Close();
+            }
+        }
     }
 }

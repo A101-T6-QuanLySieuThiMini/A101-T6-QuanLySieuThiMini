@@ -37,6 +37,7 @@ namespace GUI
             this.txt_mk = new System.Windows.Forms.TextBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.txt_tk = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -44,7 +45,7 @@ namespace GUI
             // button3
             // 
             this.button3.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button3.Location = new System.Drawing.Point(362, 275);
+            this.button3.Location = new System.Drawing.Point(234, 275);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(149, 33);
             this.button3.TabIndex = 22;
@@ -55,7 +56,7 @@ namespace GUI
             // CheckBox1
             // 
             this.CheckBox1.AutoSize = true;
-            this.CheckBox1.Location = new System.Drawing.Point(140, 282);
+            this.CheckBox1.Location = new System.Drawing.Point(70, 282);
             this.CheckBox1.Margin = new System.Windows.Forms.Padding(4);
             this.CheckBox1.Name = "CheckBox1";
             this.CheckBox1.Size = new System.Drawing.Size(140, 21);
@@ -142,11 +143,24 @@ namespace GUI
             this.txt_tk.Size = new System.Drawing.Size(315, 37);
             this.txt_tk.TabIndex = 0;
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(425, 275);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(106, 33);
+            this.button1.TabIndex = 23;
+            this.button1.Text = "Đổi mật khẩu";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // frm_dangNhap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(595, 416);
+            this.ClientSize = new System.Drawing.Size(595, 450);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.CheckBox1);
             this.Controls.Add(this.btn_thoat);
@@ -173,6 +187,7 @@ namespace GUI
         private System.Windows.Forms.TextBox txt_mk;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.TextBox txt_tk;
+        private System.Windows.Forms.Button button1;
     }
 }
 
