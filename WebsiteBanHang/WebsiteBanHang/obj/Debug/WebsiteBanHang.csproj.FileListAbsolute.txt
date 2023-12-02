@@ -1,0 +1,346 @@
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\WebsiteBanHang.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\WebsiteBanHang.pdb
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csc.exe
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csc.exe.config
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csc.rsp
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csi.exe
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csi.exe.config
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csi.rsp
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.AppContext.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Console.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.IO.Compression.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Net.Http.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.ValueTuple.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\vbc.exe
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\vbc.exe.config
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\vbc.rsp
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\CKFinder.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Owin.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\PagedList.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Razor.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\WebGrease.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\CKFinder.pdb
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\PagedList.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Razor.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.Migrations.CreatedDataabase.resources
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.GenerateResource.cache
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+C:\Users\xuantuan\OneDrive\Máy tính\Web\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\WebsiteBanHang.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\WebsiteBanHang.pdb
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csc.exe
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csc.exe.config
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csc.rsp
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csi.exe
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csi.exe.config
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csi.rsp
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.AppContext.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Console.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.IO.Compression.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Net.Http.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.ValueTuple.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\vbc.exe
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\vbc.exe.config
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\vbc.rsp
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\CKFinder.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Owin.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\PagedList.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Razor.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\WebGrease.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\CKFinder.pdb
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\PagedList.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Razor.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.Migrations.delete.resources
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.GenerateResource.cache
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+C:\Users\xuantuan\OneDrive\Documents\GitHub\A101-T6-QuanLySieuThiMini\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\WebsiteBanHang.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\WebsiteBanHang.pdb
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csc.exe
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csc.exe.config
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csc.rsp
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csi.exe
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csi.exe.config
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\csi.rsp
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.AppContext.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Console.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.IO.Compression.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Net.Http.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.ValueTuple.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\vbc.exe
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\vbc.exe.config
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\vbc.rsp
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Antlr3.Runtime.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\CKFinder.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Newtonsoft.Json.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Owin.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\PagedList.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\PagedList.Mvc.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Helpers.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Mvc.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Optimization.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Razor.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\WebGrease.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\CKFinder.pdb
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\PagedList.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\PagedList.Mvc.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Helpers.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Mvc.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Optimization.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.Razor.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Newtonsoft.Json.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Antlr3.Runtime.pdb
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.Migrations.delete.resources
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.GenerateResource.cache
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+D:\PTUDTM\A101-T6-QuanLySieuThiMini-56e12a633ddd88573a11aff4a5709bd1e14b9025\WebSieuThiMiNi\WebsiteBanHang\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
